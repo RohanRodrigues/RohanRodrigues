@@ -22,9 +22,8 @@ I'm a passionate aspiring **Software Developer** with a strong interest in build
 - Hackathons and team-based tech challenges  
 
 ### 📫 How to reach me:
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/rohanrodrigues](https://linkedin.com/in/rohanrodrigues)  
-- 🐦 Twitter: [@yourhandle] *(if applicable)*
+- 📧 Email: rohanrodrigues2002@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/rohan-rodrigues7
 
 ### 😄 Pronouns: 
 He/Him
